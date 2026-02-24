@@ -1,3 +1,1 @@
-# Посмотри в окно 
-
-Проект для поиска и просмотра видео из разных городов.  
+https://github.com/irinagalimova/posmotri-v-okno-fd
